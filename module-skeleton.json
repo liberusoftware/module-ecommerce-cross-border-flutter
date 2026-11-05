@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-cross-border-flutter",
+  "capabilityKey": "planned:ecommerce:cross-border",
+  "presentation": "mobile-flutter",
+  "package": "module_ecommerce_cross_border_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/ecommerce/nextjs/cross-border.md",
+  "presentationPlan": "projects/ecommerce/flutter/cross-border.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
